@@ -1,0 +1,70 @@
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+hr {
+  border-width: 3px;
+  border-color: grey;
+}
+
+
+header.startup h2 {
+  letter-spacing: 5px;
+}
+
+header.startup h1 {
+  padding: 15px;
+  letter-spacing: 10px;
+  background-color: #111;
+}
+
+blockquote {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+header.startup {
+  background-position: center;
+  opacity: 0.8;
+  background-image: url("https://fthmb.tqn.com/wzV7nHfHAzzatixNnWAA0zhCDR0=/768x0/filters:no_upscale()/JavaScript-58acbb8a3df78c345bad32c2.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+.carousel-inner img { 
+      width: 100%;
+      height: 100%;
+  }
+
+#separate {
+  max-width: 350px;
+}
+
+.jumbotron {
+  margin: 0 10% 0 10%;
+}
+
+#about {
+  .height: 100%
+}
+
+@media only screen and (max-width: 600px) {
+    .display-1 {
+        font-size: 64px;
+    }
+}
+
+footer.bottom-page {
+  padding: 15px;
+  background-color: #111;
+  color: grey;
+  text-align: center;
+}
+
+.fa {
+  padding: 10px;
+  color: #111;
+  font-size: 60px;
+}
