@@ -26,3 +26,11 @@ $(document).ready(function(){
     }  // End if
   });
 });
+
+function clickable(img) {
+    img.style.opacity = 0.6;
+}
+
+function noClickable(img) {
+    img.style.opacity = 1;
+}
